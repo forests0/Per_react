@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/forests0/react_team.git/static/css/main.028e8adc.css",
-    "main.js": "/forests0/react_team.git/static/js/main.a39de408.js",
-    "static/media/searchicon.png": "/forests0/react_team.git/static/media/searchicon.30c020fe2df54545fef4.png",
-    "index.html": "/forests0/react_team.git/index.html",
-    "main.028e8adc.css.map": "/forests0/react_team.git/static/css/main.028e8adc.css.map",
-    "main.a39de408.js.map": "/forests0/react_team.git/static/js/main.a39de408.js.map"
+    "main.css": "/per_react/static/css/main.28506647.css",
+    "main.js": "/per_react/static/js/main.a39de408.js",
+    "static/media/searchicon.png": "/per_react/static/media/searchicon.30c020fe2df54545fef4.png",
+    "index.html": "/per_react/index.html",
+    "main.28506647.css.map": "/per_react/static/css/main.28506647.css.map",
+    "main.a39de408.js.map": "/per_react/static/js/main.a39de408.js.map"
   },
   "entrypoints": [
-    "static/css/main.028e8adc.css",
+    "static/css/main.28506647.css",
     "static/js/main.a39de408.js"
   ]
 }
